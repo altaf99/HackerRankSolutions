@@ -8,4 +8,4 @@ You can also refer for solution :) if you find any difficulties.
 
 ## My Hacker Rank Profile
 
-https://www.hackerrank.com/altafshaikh?hr_r=1
+https://www.hackerrank.com/altafshaikh
